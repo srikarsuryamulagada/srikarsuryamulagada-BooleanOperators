@@ -20,7 +20,7 @@ public class Lab {
     /**
      * @param b a true/false value.
      * @return if b is true, return false. if b is false, return true.
-     * look into boolean operations to do this without using if/else statements.
+     * look into boolean operations to do this without using if/else statements
      */
     public boolean returnNot(boolean b){
         return false;
